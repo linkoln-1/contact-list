@@ -13,3 +13,8 @@
 ## **Затем открыть 3 терминал и ввести следующую команду:**
 
 - npm start
+
+## **Чтобы установить библиотеки MaterialUI, нужно ввести следующие команд:**
+- npm install @mui/material @emotion/react @emotion/styled --legacy-peer-deps
+  npm install @mui/icons-material --legacy-peer-deps
+- npm install @material-ui/icons @material-ui/core --legacy-peer-deps
