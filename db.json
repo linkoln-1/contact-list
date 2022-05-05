@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "login": "ali",
+      "password": "123456",
+      "roles": "Администратор",
+      "avatar": null,
+      "token": "ZhkxCAJeturkzpdm9qeROj3agBvQ8RhUARtcrN4WsSeGguNQqU",
+      "id": 1
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Рамазан Чапаев",
+      "id": 2
+    }
+  ]
+}
